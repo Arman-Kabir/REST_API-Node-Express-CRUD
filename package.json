@@ -1,0 +1,27 @@
+{
+  "name": "rest_api-node-express-crud",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000E\u0000S\u0000T\u0000_\u0000A\u0000P\u0000I\u0000-\u0000N\u0000o\u0000d\u0000e\u0000-\u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000-\u0000C\u0000R\u0000U\u0000D\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arman-Kabir/REST_API-Node-Express-CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arman-Kabir/REST_API-Node-Express-CRUD/issues"
+  },
+  "homepage": "https://github.com/Arman-Kabir/REST_API-Node-Express-CRUD#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
